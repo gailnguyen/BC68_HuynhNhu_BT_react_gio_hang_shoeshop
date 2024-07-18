@@ -1,0 +1,8 @@
+.ReactModal__Overlay {
+  height: 100%;
+  width: 50%;
+  transform: translateX(50%);
+  .ReactModal__Content {
+    text-align: center;
+  }
+}
